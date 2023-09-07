@@ -130,6 +130,7 @@ msgstr "Durée de la période"
 
 #. module: l10n_be_coa_multilang
 #: model:ir.model.fields,field_description:l10n_be_coa_multilang.field_l10n_be_vat_declaration__month
+#: model:ir.model.fields.selection,name:l10n_be_coa_multilang.selection__l10n_be_vat_declaration__period_length__month
 msgid "Month"
 msgstr "Mois"
 
@@ -137,11 +138,6 @@ msgstr "Mois"
 #: model:ir.model.fields,field_description:l10n_be_coa_multilang.field_l10n_be_vat_declaration__quarter
 msgid "Quarter"
 msgstr "Trimestre"
-
-#. module: l10n_be_coa_multilang
-#: model:ir.model.fields.selection,name:l10n_be_coa_multilang.selection__l10n_be_vat_declaration__period_length__month
-msgid "Month"
-msgstr "Mois"
 
 #. module: l10n_be_coa_multilang
 #: model:ir.model.fields.selection,name:l10n_be_coa_multilang.selection__l10n_be_vat_declaration__period_length__quarter
